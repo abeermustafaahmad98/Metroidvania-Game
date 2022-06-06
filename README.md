@@ -1,2 +1,2 @@
-# Metroidvania Game
- Personal on-going project, inspired by games like Metroid and Castlevania.
+# Metroidvania
+ Personal project that I'm starting to work on.
